@@ -1,0 +1,74 @@
+{
+    "paris": {
+        "sapien": {
+            "foldchair_102255": "s,r",
+            "fridge_10905": "s,r",
+            "laptop_10211": "s,r",
+            "oven_101917": "s,r",
+            "scissor_11100": "s,r",
+            "stapler_103111": "s,r",
+            "USB_100109": "s,r",
+            "washer_103776": "s,r",
+            "blade_103706": "s,p",
+            "storage_45135": "s,p"
+        },
+        "realscan": {
+            "real_fridge": "s,r",
+            "real_storage": "s,p"
+        }
+    },
+    "dta": {
+        "sapien": {
+            "fridge_10489": "s,r,r",
+            "storage_47254": "s,p,r"
+        }
+    },
+    "artgs": {
+        "sapien": {
+            "oven_101908": "s,r,r,r",
+            "table_25493": "s,p,p,p",
+            "storage_45503": "s,r,r,r",
+            "storage_47648": "s,p,p,r,r,r,r",
+            "table_31249": "s,p,r,p,r"
+        },
+        "realscan": {
+            "cabinet_2drawer": "s,p,p",
+            "washingmachine_1r": "s,r",
+            "fridge_3r": "s,r,r,r",
+            "cabinet_1r_white": "s,r",
+            "cabinet_3r_white": "s,r,r,r",
+            "printer2_2p_1r_white": "s,p,p,r",
+            "cabinet_1r2p_transparent": "s,p,p,r",
+            "microwave": "s,r",
+            "drawer_2p_1r_brown": "s,p,p,r"
+        }
+    },
+    "gear": {
+        "sapien": {
+            "storage_45271": "s,r,r,r,r,p,p",
+            "faucet_1028": "s,r,r",
+            "clock_6843": "s,p,p",
+            "bucket_100481": "s,r,r",
+            "eyeglasses_101284": "s,r,r",
+            "oven_7187": "s,r,r",
+            "box_100154": "s,r,r,r,r",
+            "door_9168": "s,r,r",
+            "refrigerator_10655": "s,r,r",
+            "knife_101068": "s,r,r,r",
+            "table_32761": "s,p,p,p,p",
+            "table_32761_2": "s,p,p,p,p",
+            "safe_101363": "s,r",
+            "window_102985": "s,p",
+            "display_4533": "s,r",
+            "refrigerator_10685": "s,r"
+        },
+        "real":{
+            "real_drawer": "s,p,p,p",
+            "real_printer": "s,r,p",
+            "real_table0": "s,p,p",
+            "real_table1": "s,r,r,r",
+            "cabinet_2drawer": "s,p,p",
+            "cabinet_1r2p_transparent": "s,p,r,r"
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "paris": {
+        "sapien":{
+            "foldchair_102255": 2,
+            "fridge_10905": 2,
+            "laptop_10211": 2,
+            "oven_101917": 2,
+            "scissor_11100": 2,
+            "stapler_103111": 2,
+            "USB_100109": 2,
+            "washer_103776": 2,
+            "blade_103706": 2,
+            "storage_45135": 2
+        },
+        "realscan":{
+            "real_fridge": 2,
+            "real_storage": 2
+        }
+    },
+    "dta": {
+        "sapien":{
+            "fridge_10489": 3,
+            "storage_47254": 3
+        }
+    },
+    "artgs": {
+        "sapien":{
+            "oven_101908": 4,
+            "table_25493": 4,
+            "storage_45503": 4,
+            "storage_47648": 7,
+            "table_31249": 5
+        }
+    },
+    "gear": {
+        "sapien":{
+            "faucet_1028": 3,
+            "box_100154": 5,
+            "clock_6843": 3,
+            "door_9168": 3,
+            "eyeglasses_101284": 3,
+            "knife_101068": 4,
+            "oven_7187": 3,
+            "refrigerator_10655": 3,
+            "storage_45271": 7,
+            "bucket_100481": 3,
+            "table_32761": 4,
+            "table_32761_2": 4,
+            "safe_101363": 2,
+            "window_102985": 2,
+            "display_4533": 2,
+            "refrigerator_10685": 2
+        },
+        "real":{
+            "real_drawer": 4,
+            "real_storage": 3,
+            "real_printer": 3,
+            "real_table0": 3,
+            "real_table1": 4,
+            "cabinet_2drawer": 3,
+            "cabinet_1r2p_transparent": 4
+        }
+    }
+}

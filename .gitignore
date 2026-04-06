@@ -1,0 +1,43 @@
+<<<<<<< HEAD
+.gitignore
+# outputs/*
+outputs*/
+# outputs_2dgs/*
+# outputs_3dgs/*
+=======
+outputs/*
+outputs_3dgs/*
+outputs_2dgs/*
+>>>>>>> main
+.vscode/*
+*.pth
+__pycache__/*
+__pycache__/
+*.pyc
+*.png
+data/*
+debug.sh
+debug.py
+*.slurm
+*.out
+*.png
+*.zip
+utils/pointnet_lib/pointnet2.egg-info
+utils/pointnet_lib/dist
+utils/pointnet_lib/build
+ztosave/
+viewers/
+2d-gaussian-splatting/install
+2d-gaussian-splatting/submodules
+pytorch3d/
+<<<<<<< HEAD
+tiny-cuda-nn/
+submodules/simple-knn
+2d-gaussian-splatting/submodules/simple-knn
+pytorch3d/
+tiny-cuda-nn/
+ckpts/
+temp_demo_data/
+=======
+tiny-cuda-nn/
+>>>>>>> main
