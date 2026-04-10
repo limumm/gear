@@ -1,6 +1,6 @@
 # GEAR: GEometry-motion Alternating Refinement for Articulated Object Modeling with Gaussian Splatting
 
-[![Venue](https://img.shields.io/badge/Venue-CVPR%202026%20(Findings)-blue.svg)]()
+[![Venue](https://img.shields.io/badge/Venue-CVPR%202026%20(Findings)-blue.svg)](https://arxiv.org/abs/2604.07728)
 
 This is the official code repository for our paper **GEAR: GEometry-motion Alternating Refinement for Articulated Object Modeling with Gaussian Splatting**, accepted at **CVPR 2026 (Findings)**.
 
@@ -98,15 +98,18 @@ Render the novel views, visualize the part segmentation, and evaluate the result
 bash scripts/5_render.sh
 ```
 
-<!-- ## Citation
+## Citation
 
 If you find our work or dataset useful, please consider citing:
 
 ```bibtex
-@inproceedings{gear2026,
-  title={GEAR: GEometry-motion Alternating Refinement for Articulated Object Modeling with Gaussian Splatting},
-  author={Your Name and Co-authors},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Findings},
-  year={2026}
+@misc{gear2026,
+      title={GEAR: GEometry-motion Alternating Refinement for Articulated Object Modeling with Gaussian Splatting}, 
+      author={Jialin Li and Bin Fu and Ruiping Wang and Xilin Chen},
+      year={2026},
+      eprint={2604.07728},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2604.07728}, 
 }
-``` -->
+```
